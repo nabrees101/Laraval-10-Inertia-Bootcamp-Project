@@ -1,1 +1,1 @@
-"# Laraval-10-Livewire-Bootcamp-Project" 
+"# Laraval-10-Inertia-Bootcamp-Project" 
